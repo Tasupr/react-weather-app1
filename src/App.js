@@ -13,7 +13,7 @@ export default function App() {
             Tanya Suprunovich
           and is{" "}
           <a
-            href="https://github.com/Tasupr/react-weather-app."
+            href="https://github.com/Tasupr/react-weather-app1"
             target="_blank"
             rel="noopener noreferrer"
           >
