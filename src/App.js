@@ -13,7 +13,7 @@ export default function App() {
             Tanya Suprunovich
           and is{" "}
           <a
-            href="https://github.com/Tasupr/react-weather-app"
+            href="https://github.com/Tasupr/react-weather-app."
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -21,7 +21,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://"
+            href="https://benevolent-marshmallow-aca134.netlify.app"
             target="_blank"
             rel="noopener noreferrer"
           >
